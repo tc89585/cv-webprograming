@@ -74,7 +74,7 @@ ul {
 
 
 .top {
-    background-image: url("/images/wp3604980-oil-paintings-wallpapers.jpg");
+    background-image: url("./wp3604980-oil-paintings-wallpapers.jpg");
     background-size: cover;
     background-position: center;
     height: 100vh;
